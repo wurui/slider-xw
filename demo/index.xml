@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+        <nick>wurui</nick>
+    </login>
+    <p>
+        <title>slider-xw demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+        <ui-imglist>
+            <i>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9eopslnTj9xobt45Rzj3bAwri-770.jpg</img>
+                <title>山美　水美　人更美！　走遍大地神州，最美多彩贵州</title>
+                <href></href>
+            </i>
+            <i>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9eopu2aTj9xobrniR5xetA3nev-667.jpg</img>
+                <title>灵秀海边欢迎您</title>
+                <href></href>
+            </i>
+            <i>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9eops2lTj9xobtn7R4kd2A1vpq-667.jpg</img>
+                <title>局部空气质量已经达到50年来最好标准</title>
+                <href></href>
+            </i>
+        </ui-imglist>
+    </data>
+</root>
