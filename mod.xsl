@@ -10,7 +10,7 @@
             		<tbody>
             			<tr>
 		            		<xsl:for-each select="$list">
-		            			<td class="item" width="{100 div $len}00%">
+		            			<td class="item" width="{100 div $len}%">
 		            				<a href="">
 			            				<img class="mainpic" style="background-image:url({img})" src="//a.oxm1.cc/img/blank.png"/>
 			            				<p class="text-box">
